@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "nakamoto-games",
   "VITE_ORDERLY_BROKER_NAME": "Nakamoto Games",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NakamotoGames",
   "VITE_SEO_SITE_NAME": "Nakamoto Games",
   "VITE_SEO_SITE_DESCRIPTION": "Get started in minutes with our free-to-play games. The best collection of play-to-earn crypto games featuring action, arcade, and more. Powered by $NAKA.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/nakamoto-games-8254/",
+  "VITE_SEO_SITE_URL": "https://perp.nakamoto.games",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@NakamotoGames",
